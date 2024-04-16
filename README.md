@@ -1,3 +1,3 @@
 ### Olá! Me chamo Pablo.
 
-- 🧠 Estudando Python
+- 🧠 Estudante de Ciência da Computação
